@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#ATM using React
+
+A React application that creates a user interface, which mimics the functionality and behavior of a real-world ATM machine through deposits and cash back.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
