@@ -1,4 +1,4 @@
-#ATM using React
+# ATM using React
 
 A React application that creates a user interface, which mimics the functionality and behavior of a real-world ATM machine through deposits and cash back.
 
